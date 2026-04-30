@@ -13,10 +13,10 @@
 <p align="center">
 轻量级的心情便签 Web 应用，界面简洁，安全可靠，零依赖。
 </p>
+
+[English](README_en.md) | 简体中文
+
 </div>
-
-
-[[English]](README_en.md) · [简体中文]
 
 ## 预览 
 

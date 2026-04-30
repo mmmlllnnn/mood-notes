@@ -13,9 +13,11 @@
 <p align="center">
 A lightweight, secure web app for capturing your thoughts. Clean design, fast, no dependencies.
 </p>
+
+English | [简体中文](README.md)
+
 </div>
 
-[English] · [[简体中文]](README.md)
 
 ## Preview
 

@@ -18,7 +18,10 @@
 
 [[English]](README_en.md) · [简体中文]
 
-## 预览
+## 预览 
+
+[点击预览](https://handsome.eu.org/mood_notes/index.php)
+
 <table>
   <tr>
     <td align="center">

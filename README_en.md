@@ -18,6 +18,9 @@ A lightweight, secure web app for capturing your thoughts. Clean design, fast, n
 [English] · [[简体中文]](README.md)
 
 ## Preview
+
+[Click to Preview](https://handsome.eu.org/mood_notes/index.php)
+
 <table>
   <tr>
     <td align="center">
